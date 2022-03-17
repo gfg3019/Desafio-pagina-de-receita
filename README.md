@@ -6,10 +6,7 @@ Nesse disafio foram usadas as tecnologias:
  - CSS3
 ## fotos demonstrativas do projeto
 
-### Imagem do header do site
+### Imagens da pagina
 <img src="./assets/site1.png">
 <br>
-<br>
-### Imagem do resto da pagina
-
 <img src="./assets/site.png">
